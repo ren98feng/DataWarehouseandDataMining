@@ -33,8 +33,4 @@
 
 ## Contacts
 
-课程二维码
-![image](https://ren98feng.github.io/attachments/link.png)
-
-动态二维码
-![image](https://ren98feng.github.io/attachments/link.gif)
+![课程二维码](https://ren98feng.github.io/attachments/link.png)
