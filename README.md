@@ -19,9 +19,9 @@
 
 - 课件
 
--- 第1次课件 [download](https://atmahou.github.io/attachments/ACL2020data.zip)
+-- 第1次课件 [download](https://ren98feng.github.io/attachments/DWDM-20200912a.pdf)
 
--- 第2次课件 [download](https://atmahou.github.io/attachments/ACL2020data.zip)
+-- 第2次课件 [download](https://ren98feng.github.io/attachments/DWDM-20200912b.pdf)
 
 -- 第3次课件
 
