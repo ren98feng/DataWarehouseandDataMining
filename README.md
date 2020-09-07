@@ -31,6 +31,14 @@
 
 -- 第6次课件 [download](https://github.com/ren98feng/DataWarehouseandDataMining/课件/DWDM-20200926b.pdf)
 
+### AfterCourse
+
+- 提交报告
+
+-- 电子版1份：请发到如下邮箱[dszhang@nudt.edu.cn]，邮件主题请注明“DWDM+最终版+学号+姓名”，附件中上传电子版文件，文件格式只能是doc或docx或pdf。
+
+-- 打印版1份：请交给各班班长，由班长统一收齐后提交；或者，自行交到数计楼4楼
+
 ## Contacts
 
 ![课程二维码](https://ren98feng.github.io/attachments/link.png)
