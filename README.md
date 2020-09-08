@@ -19,17 +19,17 @@
 
 - 课件
 
--- 第1次课件 [download](https://github.com/ren98feng/DataWarehouseandDataMining/课件/DWDM-20200912a.pdf)
+-- 第1次课件 [download](https://ren98feng.github.io/attachments/DWDM-20200912a.pdf)
 
--- 第2次课件 [download](https://github.com/ren98feng/DataWarehouseandDataMining/课件/DWDM-20200912b.pdf)
+-- 第2次课件 [download](https://ren98feng.github.io/attachments/DWDM-20200912b.pdf)
 
--- 第3次课件 [download](https://github.com/ren98feng/DataWarehouseandDataMining/课件/DWDM-20200919a.pdf)
+-- 第3次课件 [download](https://ren98feng.github.io/attachments/DWDM-20200919a.pdf)
 
--- 第4次课件 [download](https://github.com/ren98feng/DataWarehouseandDataMining/课件/DWDM-20200919b.pdf)
+-- 第4次课件 [download](https://ren98feng.github.io/attachments/DWDM-20200919b.pdf)
 
--- 第5次课件 [download](https://github.com/ren98feng/DataWarehouseandDataMining/课件/DWDM-20200926a.pdf)
+-- 第5次课件 [download](https://ren98feng.github.io/attachments/DWDM-20200926a.pdf)
 
--- 第6次课件 [download](https://github.com/ren98feng/DataWarehouseandDataMining/课件/DWDM-20200926b.pdf)
+-- 第6次课件 [download](https://ren98feng.github.io/attachments/DWDM-20200926b.pdf)
 
 ### AfterCourse
 
